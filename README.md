@@ -1,8 +1,8 @@
---- README.md (原始)
+--- README.md
 # 7B-Model-Finetune
 
 
-+++ README.md (修改后)
++++ README.md
 # Qwen2.5-7B Advanced Fine-tuning Project
 
 ## Goal
