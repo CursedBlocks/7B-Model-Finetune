@@ -1,0 +1,14 @@
+--- .gitignore
+
+
++++ .gitignore
+```
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Training artifacts
+training_log.txt
+training_output.log
+```
